@@ -1,8 +1,8 @@
 # Hi, I'm Osman 👋
 
-Full Stack .NET Developer
 
-C# | ASP.NET Core | React | SQL Server
+
+C# | ASP.NET Core 
 
 ---
 
